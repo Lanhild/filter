@@ -1,6 +1,6 @@
 # filter mod
 
-This mod adds a simple chat filter. There is no default word list,
+This mod adds a simple chat filter. There is a default word list,
 and adding words to the filter list is done through the `/filter`
 chat command. You need the `server` priv to use the chat command.
 
