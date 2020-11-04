@@ -14,3 +14,5 @@ If they leave, their `shout` privilege is still restored, but only after
 the time expires, not before.
 
 The filter words list is in words.txt
+
+If there is a server crash or reboot, the `shout` priv is still restored.
